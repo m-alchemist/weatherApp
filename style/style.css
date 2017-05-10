@@ -23,7 +23,7 @@ td:first-of-type, td:first-of-type > div{
 }
 
 body{
-  background: url( 'http://wrbbradio.org/wp-content/uploads/2016/10/grey-background-07.jpg')  no-repeat center center fixed;
+  background: url( 'grey.jpg')  no-repeat center center fixed;
 -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
