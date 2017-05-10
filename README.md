@@ -1,5 +1,4 @@
-# ReduxSimpleStarter
-
+# WeatherAPP
 this is a weather app created for a react project for a udemy course by Stephen Grider with a little more custom CSS.
 
 This app uses redux simple starter which can be cloned using the following link:
