@@ -1,0 +1,173 @@
+
+
+td, th{
+  vertical-align: middle !important;
+  text-align: center !important;
+
+}
+
+.input-group{
+  text-align: center;
+    padding-top: 50px ;
+  width: 500px;
+  margin: auto;
+}
+
+svg{
+  height: 150px;
+}
+
+td:first-of-type, td:first-of-type > div{
+  height:200px;
+  width: 250px;
+}
+
+body{
+  background: url( 'http://wrbbradio.org/wp-content/uploads/2016/10/grey-background-07.jpg')  no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+
+}
+
+.title{
+
+  margin-top: 50px ;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+    font-size: 100px;
+
+     text-align: center;
+
+}
+.title2{
+    color: white;
+
+  font-family: 'Raleway', sans-serif;
+    font-size: 100px;
+    display: inline;
+     text-align: center;
+
+}
+.title3{
+    color:  #FFAF26;
+  font-family: 'Raleway', sans-serif;
+    font-size: 100px;
+    display: inline;
+     text-align: center;
+  }
+
+h1{
+
+}
+.header-cont {
+      padding: 50px ;
+    width:100%;
+    position:fixed;
+    top:0px;
+   background-color: #0088cc;
+  height: 400px;
+    left: 0px;
+    top: 0px;
+    z-index: 10;
+
+}
+.header-cont2 {
+      padding: 10px;
+      padding-top: 20px;
+      padding-left:30px;
+      margin-top:400px;
+    width:100%;
+    position:fixed;
+    top:0px;
+   background-color: white;
+  height: 70px;
+    left: 0px;
+    top: 0px;
+    z-index:10;
+
+}
+.weatherList{
+  margin-top:  500px;
+}
+.tableHead{
+
+
+    vertical-align: middle !important;
+
+
+
+}
+.headTitle{
+
+
+
+
+}
+.city{
+  font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    display: inline;
+
+  padding-left: 250px;
+
+
+}
+.temp{
+  font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    display: inline;
+
+      padding-left: 170px;
+
+}
+
+.press{
+  font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    display: inline;
+    padding-left: 130px;
+
+
+
+}
+.hum{
+  font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    display: inline;
+    padding-left: 140px;
+
+
+
+}
+.glow2 a{
+  text-align: center;
+  //color: ;
+  color:  #FFAF26;
+
+ -webkit-transition: all .4s ease;
+    -moz-transition: all .4s ease;
+      -o-transition: all .4s ease;
+     -ms-transition: all .4s ease;
+         transition: all .4s ease;
+
+}
+
+.glow2 a :hover {
+    text-align: center;
+  color:#0088cc;
+  -webkit-transition: all .4s ease;
+     -moz-transition: all .4s ease;
+       -o-transition: all .4s ease;
+      -ms-transition: all .4s ease;
+          transition: all .4s ease;
+
+
+}
+.textCenter{
+
+  margin-top: 200px;
+  text-align: center;
+
+}
