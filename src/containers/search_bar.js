@@ -12,7 +12,7 @@ import {fetchWeather} from '../actions/index';
       this.onFormSubmit= this.onFormSubmit.bind(this);
    }
    onInputChange(event){
-     console.log(event.target.value);
+    
     this.setState({term: event.target.value})
    }
    onFormSubmit(event){

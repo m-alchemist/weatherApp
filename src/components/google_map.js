@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-const API_KEY='AIzaSyCNiIN9uvInNmX0zhF6_091FreYktju-as';
+const API_KEY='AIzaSyBs41SBinLJJULuKU0JbOgHSAlDFAvhPdk';
 class GoogleMap extends Component{
   componentDidMount(){
     new google.maps.Map(this.refs.map,{
