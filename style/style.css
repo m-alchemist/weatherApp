@@ -96,12 +96,12 @@ h1{
 
     vertical-align: middle !important;
 
-
+    text-align: center;
 
 }
 .headTitle{
-
-
+    text-align: center !important;
+    text-align: center;
 
 
 }
@@ -110,7 +110,8 @@ h1{
     font-size: 20px;
     display: inline;
 
-  padding-left: 250px;
+  padding-left: 45px;
+    text-align: center !important;
 
 
 }
@@ -120,6 +121,7 @@ h1{
     display: inline;
 
       padding-left: 170px;
+        text-align: center !important;
 
 }
 
@@ -128,6 +130,7 @@ h1{
     font-size: 20px;
     display: inline;
     padding-left: 130px;
+      text-align: center !important;
 
 
 
@@ -137,6 +140,7 @@ h1{
     font-size: 20px;
     display: inline;
     padding-left: 140px;
+      text-align: center !important;
 
 
 
