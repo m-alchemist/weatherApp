@@ -8,8 +8,8 @@ td, th{
 
 .input-group{
   text-align: center;
-    padding-top: 50px ;
-  width: 500px;
+    padding-top: 10px ;
+  width: 450px;
   margin: auto;
 }
 
@@ -45,7 +45,7 @@ background-size: cover;
     color: white;
 
   font-family: 'Raleway', sans-serif;
-    font-size: 100px;
+    font-size: 80px;
     display: inline;
      text-align: center;
 
@@ -53,7 +53,7 @@ background-size: cover;
 .title3{
     color:  #FFAF26;
   font-family: 'Raleway', sans-serif;
-    font-size: 100px;
+    font-size: 80px;
     display: inline;
      text-align: center;
   }
@@ -62,12 +62,12 @@ h1{
 
 }
 .header-cont {
-      padding: 50px ;
+      padding: 10px ;
     width:100%;
     position:fixed;
     top:0px;
    background-color: #0088cc;
-  height: 350px;
+  height: 250px;
     left: 0px;
     top: 0px;
     z-index: 10;
@@ -77,7 +77,7 @@ h1{
       padding: 10px;
       padding-top: 20px;
       padding-left:30px;
-      margin-top:350px;
+      margin-top:250px;
     width:100%;
     position:fixed;
     top:0px;
@@ -89,7 +89,7 @@ h1{
 
 }
 .weatherList{
-  margin-top:  450px;
+  margin-top:  340px;
 }
 .tableHead{
 
@@ -107,29 +107,29 @@ h1{
 }
 .city{
   font-family: 'Raleway', sans-serif;
-    font-size: 20px;
+    font-size: 15px;
     display: inline;
 
-  padding-left: 45px;
+  padding-left: 30px;
     text-align: center !important;
 
 
 }
 .temp{
   font-family: 'Raleway', sans-serif;
-    font-size: 20px;
+    font-size: 15px;
     display: inline;
 
-      padding-left: 170px;
+      padding-left: 200px;
         text-align: center !important;
 
 }
 
 .press{
   font-family: 'Raleway', sans-serif;
-    font-size: 20px;
+    font-size: 15px;
     display: inline;
-    padding-left: 130px;
+    padding-left: 160px;
       text-align: center !important;
 
 
@@ -137,9 +137,10 @@ h1{
 }
 .hum{
   font-family: 'Raleway', sans-serif;
-    font-size: 20px;
+    font-size: 15px;
     display: inline;
-    padding-left: 140px;
+    padding-left: 170px;
+    padding-right: 40px;
       text-align: center !important;
 
 
@@ -172,7 +173,7 @@ h1{
 }
 .textCenter{
 
-  margin-top: 300px;
+  margin-top: 210px;
   text-align: center;
 
 }
